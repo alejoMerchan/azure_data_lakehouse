@@ -34,7 +34,7 @@ Transform the data into the star schema for a Gold data store;
 
 ## Star Schema
 
-![star schema](/star_schema.png)
+![star schema](/star_schema.pdf)
 
 ## Extract
 - Python code to extract information from CSV files stored in Databricks and write it to the Delta file system.
